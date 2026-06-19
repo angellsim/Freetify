@@ -102,6 +102,10 @@ Freetify/
 - Em qual pasta específica do computador os arquivos de áudio físicos (`.mp3`, etc) serão salvos quando o usuário fizer upload?
 A pasta deve ser nomeada apenas como audio para ser bem facil de identificar
 - Como será a organização dos pacotes do Java (Arquitetura em Camadas, MVC, Clean Architecture)?
+Eu acredito que o melhor caso seria MVC por ser uma arquitetura que suporta projetos Desktop, App e Mobile.
+Eu vi que Clean Architecture é bom para projetos maiores e que precisarão de muitas manutenções com o passar do tempo
+e que a arquitetura em camadas era boa para Apps. Porém, como meu objetivo é mais App e Mobile eu senti que MVC 
+seria melhor. Por favor, revise e me retorne o que acha do meu pensamento porque não sei se estou certa.
 - Como rodar e testar os endpoints da API Java antes do Front-End estar pronto?
 
 ---

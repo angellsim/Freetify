@@ -1,0 +1,1 @@
+Ele simplesmente vai pegar os dados transferidos e salvar no SQLite utilizando um script (INSERT INTO musicas... )

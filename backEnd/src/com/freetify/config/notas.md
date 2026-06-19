@@ -1,0 +1,1 @@
+e onde fica localizada a configuracao de conexao com o banco de dados
