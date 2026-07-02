@@ -2,7 +2,7 @@
 
 Modelo do Banco de Dados
 Usuario (id, nome, foto_perfil, biografia)
-Musica (id, nome, imagem, cantor, caminho_arquivo, duracao, id_usuario)
+Musica (id, nome, imagem, cantor, caminho_arquivo, id_usuario, duracao)
 Playlist (id, nome, imagem, descricao, data_criacao, id_usuario)
 PlaylistMusica(id_playlist, id_musica, posicao, data_adicao)
 
